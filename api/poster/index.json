@@ -1,5 +1,12 @@
-[
-  {"id":1, "name":"家政服务","urlImg":"","description":"专业维修各种电器、厨具、卫具"},
-  {"id":2, "name":"废品回收","urlImg":"","description":"专业回收各种废旧电器、废铁、废钢、塑料瓶、啤酒瓶、泡沫、纸箱子等"},
-  {"id":3, "name":"装修建材","urlImg":"","description":"新房清理、擦玻璃、抽油烟机清洗、空调清洗等"}
-]
+{
+  "banners":[
+    {"id":1, "name":"家政服务","urlImg":"","createTime":"","description":"专业维修各种电器、厨具、卫具"},
+    {"id":2, "name":"废品回收","urlImg":"","createTime":"","description":"专业回收各种废旧电器、废铁、废钢、塑料瓶、啤酒瓶、泡沫、纸箱子等"},
+    {"id":3, "name":"装修建材","urlImg":"","createTime":"","description":"新房清理、擦玻璃、抽油烟机清洗、空调清洗等"}
+  ],
+  "datas":[
+    {"id":1, "title":"测试数据假数据模拟数据集合","content":"","createTime":"","from":"","imgs":[]},
+    {"id":2, "title":"测试数据假数据模拟数据集合","content":"","createTime":"","from":"","imgs":[]},
+    {"id":3, "title":"测试数据假数据模拟数据集合","content":"","createTime":"","from":"","imgs":[]}
+  ]
+}
