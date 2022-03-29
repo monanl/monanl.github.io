@@ -1,5 +1,7 @@
 {
-  "poster":{"urlImg":"/images/banner1-01.png"},
+  "poster":[
+    {"urlImg":"/images/banner1-01.png"}
+  ],
   "banners":[
     {"id":1, "name":"家政服务","urlImg":"/images/menu-1.png","createTime":"","description":"专业维修各种电器、厨具、卫具"},
     {"id":2, "name":"废品回收","urlImg":"/images/menu-2.png","createTime":"","description":"专业回收各种废旧电器、废铁、废钢、塑料瓶、啤酒瓶、泡沫、纸箱子等"},
