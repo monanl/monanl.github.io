@@ -1,6 +1,6 @@
 {
   "poster":[
-    {"urlImg":"/images/banner1-01.png"}
+    {"id":1, "urlImg":"/images/banner1-01.png"}
   ],
   "banners":[
     {"id":1, "name":"家政服务","urlImg":"/images/menu-1.png","createTime":"","description":"专业维修各种电器、厨具、卫具"},
