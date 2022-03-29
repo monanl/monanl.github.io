@@ -1,8 +1,6 @@
 {
   "poster":[
-    {"id":1, "urlImg":"/images/banner1-01.png","createTime":"","description":"专业维修各种电器、厨具、卫具"},
-    {"id":2, "urlImg":"/images/banner1-01.png","createTime":"","description":"专业维修各种电器、厨具、卫具"},
-    {"id":3, "urlImg":"/images/banner1-01.png","createTime":"","description":"专业维修各种电器、厨具、卫具"}
+    {"id":1, "urlImg":"/images/banner-01.png","createTime":"","description":"专业维修各种电器、厨具、卫具"}
   ],
   "banners":[
     {"id":1, "name":"家政服务","urlImg":"/images/menu-1.png","createTime":"","description":"专业维修各种电器、厨具、卫具"},
